@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "186611607660",
+    "firebase_url": "https://dehydration-monitoring-app-default-rtdb.firebaseio.com",
+    "project_id": "dehydration-monitoring-app",
+    "storage_bucket": "dehydration-monitoring-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186611607660:android:457a57e2dfbea0ac1f1049",
+        "android_client_info": {
+          "package_name": "com.example.dehydration_tracker_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186611607660-gg73qqa7gku6ju2j5pqlhqleaudqc9l2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dehydration_tracker_app",
+            "certificate_hash": "21d40a01146fbd2c436cb4e3a8ba4828aac6a765"
+          }
+        },
+        {
+          "client_id": "186611607660-7an47dq99k045e3ejs08gj005vplgkod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUz033cLZBl1a3qgbesG-KMhppBVFdMXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186611607660-7an47dq99k045e3ejs08gj005vplgkod.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "186611607660-5lj4pkua1u1568f9jec4ve70k8sqijm0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.stayHydratedApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186611607660:android:35e025120aa68a6c1f1049",
+        "android_client_info": {
+          "package_name": "com.example.stay_hydrated_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186611607660-7an47dq99k045e3ejs08gj005vplgkod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUz033cLZBl1a3qgbesG-KMhppBVFdMXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186611607660-7an47dq99k045e3ejs08gj005vplgkod.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "186611607660-5lj4pkua1u1568f9jec4ve70k8sqijm0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.stayHydratedApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

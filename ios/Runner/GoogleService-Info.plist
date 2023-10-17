@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>186611607660-5lj4pkua1u1568f9jec4ve70k8sqijm0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.186611607660-5lj4pkua1u1568f9jec4ve70k8sqijm0</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>186611607660-gg73qqa7gku6ju2j5pqlhqleaudqc9l2.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDnxGmXgHOENbzWl6VGS24KVQO2ftrsMrU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>186611607660</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.stayHydratedApp</string>
+	<key>PROJECT_ID</key>
+	<string>dehydration-monitoring-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dehydration-monitoring-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:186611607660:ios:e5f598ee73c7e3751f1049</string>
+	<key>DATABASE_URL</key>
+	<string>https://dehydration-monitoring-app-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
